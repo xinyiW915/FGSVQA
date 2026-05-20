@@ -2,12 +2,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xinyiW915/FGSVQA) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/xinyiW915/FGSVQA?logo=github)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-
-[//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2508.10605-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/&#41;)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.20016-b31b1b.svg)](http://arxiv.org/abs/2605.20016)
 
 Official Code for the following paper:
 
-**X. Wang, A. Katsenou, J.Shen and D. Bull**. [FGSVQA: Frequency-Guided Short-form Video Quality Assessment](https://arxiv.org/abs/)
+**X. Wang, A. Katsenou, J.Shen and D. Bull**. [FGSVQA: Frequency-Guided Short-form Video Quality Assessment](http://arxiv.org/abs/2605.20016)
 
 [Our paper]() was accepted by the 18th International Conference on Quality of Multimedia Experience ([QoMEX 2026](https://qomex2026.itec.aau.at/)).
 
