@@ -188,8 +188,9 @@ If you find this paper and the repo useful, please cite our paper 😊:
 @article{wang2026fgsvqa,
       title={FGSVQA: Frequency-Guided Short-form Video Quality Assessment},
       author={Wang, Xinyi and Katsenou, Angeliki, Shen, Junxiao and Bull, David},
-      booktitle={18th International Conference on Quality of Multimedia Experience (QoMEX 2026)}, 
+      booktitle={2026 18th International Conference on Quality of Multimedia Experience (QoMEX)}, 
       year={2026},
+      organization={IEEE}
 }
 ```
 
